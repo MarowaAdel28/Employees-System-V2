@@ -10,7 +10,7 @@
 
  *     user can enter number of employee he want to add
 
- *	   user can increase #employee and add more without lost data
+ *     user can increase #employee and add more without lost data
 
  *     code must be unique
 
